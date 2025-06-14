@@ -3,10 +3,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const goToSecondPageBtn = document.getElementById('goToSecondPage');
     if (goToSecondPageBtn) {
         const messages = [
-            "O amor é a coisa mais bonita que existe, e você é a prova disso!",
-            "Cada momento com você é um presente que guardo no coração!",
-            "Você é o amor da minha vida, minha alma gêmea, meu tudo!",
-            "Meu coração bate no ritmo do seu, feliz Dia dos Namorados!",
             "Obrigado por dividir a vida comigo, te amarei sempre!"
         ];
 
