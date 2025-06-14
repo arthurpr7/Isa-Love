@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
         goToSecondPageBtn.addEventListener('click', () => {
             const randomMessage = messages[Math.floor(Math.random() * messages.length)];
             localStorage.setItem('specialValentineMessage', randomMessage);
-            window.location.href = 'second_page.html';
+            window.location.href = 'declaration_page.html';
         });
     }
 
