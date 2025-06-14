@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "Cada momento com você é um presente que guardo no coração!",
             "Você é o amor da minha vida, minha alma gêmea, meu tudo!",
             "Meu coração bate no ritmo do seu, feliz Dia dos Namorados!",
-            "Você é minha inspiração diária, minha luz, meu eterno amor!"
+            "Obrigado por dividir a vida comigo, te amarei sempre!"
         ];
 
         goToSecondPageBtn.addEventListener('click', () => {
